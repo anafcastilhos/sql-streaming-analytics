@@ -1,6 +1,6 @@
 # Análise de Dados de uma Plataforma de Streaming — SQL Puro
 
-Segundo projeto de SQL do meu cronograma de estudos em análise de dados. Depois de um primeiro projeto com uma base pequena, quis um desafio mais próximo do que se vê no mercado: uma base maior, com histórico ao longo do tempo, e perguntas de negócio mais avançadas — retenção, churn, RFM.
+Segundo projeto de SQL do meu cronograma de estudos em análise de dados. Depois de um primeiro projeto com uma base pequena, quis um desafio mais próximo do que se vê no mercado: uma base maior, com histórico ao longo do tempo, e perguntas de negócio mais avançadas: retenção, churn, RFM.
 
 ## Objetivo
 
