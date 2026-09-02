@@ -73,4 +73,4 @@ Vale registrar dois erros que cometi e corrigi durante o projeto, porque são ar
 
 ## Algumas coisas que percebi
 
-A taxa de churn varia bastante por plano — o plano Básico tem quase o dobro da taxa de cancelamento do plano Premium, o que sugere que assinantes de planos mais caros tendem a ficar mais tempo. A análise de coorte mostrou crescimento na base de usuários mês a mês. E cruzando idade com avaliação, alguns gêneros (como Ação e Eletrônica) são melhor avaliados por usuários mais velhos, enquanto outros (Comédia, Documentário) vão melhor com o público mais jovem.
+A taxa de churn varia bastante por plano. O plano Básico tem quase o dobro da taxa de cancelamento do plano Premium, o que sugere que assinantes de planos mais caros tendem a ficar mais tempo. A análise de coorte mostrou crescimento na base de usuários mês a mês. E cruzando idade com avaliação, alguns gêneros (como Ação e Eletrônica) são melhor avaliados por usuários mais velhos, enquanto outros (Comédia, Documentário) vão melhor com o público mais jovem.
